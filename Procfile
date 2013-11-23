@@ -1,1 +1,1 @@
-web: app
+web: circle2slack
