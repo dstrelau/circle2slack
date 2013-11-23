@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/dstrelau/circle2slack",
+	"GoVersion": "go1.2rc4",
+	"Deps": []
+}
